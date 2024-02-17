@@ -6,3 +6,7 @@ Build with Maven Framework. Powered by Spoonacular API. https://spoonacular.com/
 
 Enter your available ingredients as a query and browse the list of available recipes. Select the recipe to view the corresponding ingredient list and instructions. Follow the onscreen 
 instructions to navigate the application.
+
+## Version 1.0
+
+Chore: Refactor classes
